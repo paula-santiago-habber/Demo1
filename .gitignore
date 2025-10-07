@@ -1,0 +1,11 @@
+# Contenido para archivo .gitignore
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+
+# VS Code
+.vscode/
